@@ -14,4 +14,4 @@ Some other services that are a part of Google Cloud include:
 
     Application programming interfaces (APIs) for machine learning and enterprise mapping services. These provide software-to-software communication. 
 
-While Google’s GCP cloud infrastructure is the backbone of applications like Google Workplace, these applications aren’t what we’re talking about when we talk about GCP. For this post, we’re focusing on Google Cloud Platform.
+While Google’s GCP cloud infrastructure is the backbone of applications like Google Workplace, these applications aren’t what we’re talking about when we talk about GCP.
